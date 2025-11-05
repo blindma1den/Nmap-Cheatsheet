@@ -1,7 +1,7 @@
 # 🔍 Ultimate Nmap Enumeration Guide  
 **by:** [@blindma1den](https://github.com/blindma1den)  
 
-> A practical, field-tested guide for network enumeration with Nmap — designed for real-world penetration testing and OSCP-style workflows.  
+> A practical, field-tested guide for network enumeration with Nmap — designed for real-world penetration testing and Certifications-style workflows.  
 > **Use responsibly:** Only scan systems you own or have explicit permission to test.
 
 ---
